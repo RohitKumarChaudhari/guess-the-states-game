@@ -17,6 +17,7 @@ You can change the country by replacing:
 - `map_image.gif`: The background map image of the country.
 - `states.csv`: A CSV file containing the state names and their (x, y) coordinates on the map.
 
+
 ### CSV File Format
 
 Your `states.csv` file should look like this:
@@ -26,4 +27,28 @@ state,x,y
 Bihar,120,34
 Punjab,-45,80
 ...
+```
+
+## 📁 Files Included
+
+- `main.py` – The main Python game file
+- `states.csv` – The list of states and their positions
+- `map_image.gif` – The background map image
+- Example map and CSV for two countries
+
+## 🛠 Requirements
+
+- Python 3.x
+- `turtle` module (usually pre-installed with Python)
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/RohitKumarChaudhari/guess-the-states-game.git
+cd guess-the-states-game
+python main.py
+```
+
+
+
 
