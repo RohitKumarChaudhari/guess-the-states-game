@@ -9,7 +9,7 @@ screen.bgpic(image)
 turtle.shape(image)
 
 
-# def get_mouse_click_cor(x, y):
+# def get_mouse_click_cor(x, y): # use this code to get the states coordinates.
 #     print(x, y)
 #
 # turtle.onscreenclick(get_mouse_click_cor)
